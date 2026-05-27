@@ -4,21 +4,19 @@ Use this file as the main chronological record. Keep entries short, concrete, an
 
 ## 2026-05-27
 
-### Repository Initialized
+### Repository Initialized and Simplified
 
-- Created project structure for a mechanical-first VANT development log.
-- Added templates for progress entries, design decisions, build notes, test reports, and the GitHub Wiki.
-- Initial focus: use GitHub as an engineering notebook and progress tracker.
+- Created the VANT repository as a mechanical project log.
+- Added the preliminary dimension sketch as the first thing shown in the README.
+- Later removed unused scaffold folders, issue templates, and wiki seed pages to keep GitHub uncluttered.
 
-### Programs Folder Added
+### Wing Calculator Added
 
-- Added `programs/` for small project utilities.
-- Added a first Python wing calculator for area, aspect ratio, wing loading, cruise lift coefficient, and estimated stall speed.
+- Added `programs/wing_calculator.py` for first-pass wing calculations.
 
-### Electrical Wiring Diagram Added
+### Electrical Wiring Added
 
-- Added a first wiring diagram for the 6S LiPo, ESC, motor, flight controller, and 6S-to-5V DC-DC regulator.
-- Documented common ground, regulated 5 V flight-controller power, ESC signal wiring, and first power-up checks.
+- Added `docs/electrical-wiring.md` for the 6S LiPo, ESC, motor, flight controller, and 6S-to-5V DC-DC regulator.
 
 ## Entry Template
 
