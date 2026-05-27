@@ -8,6 +8,12 @@ Desktop.ini
 *.swp
 *.swo
 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
 # Temporary and backup files
 *.tmp
 *.temp

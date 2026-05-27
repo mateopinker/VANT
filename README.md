@@ -21,6 +21,7 @@ This repository is for logging the design, fabrication, assembly, testing, and i
 |-- PROJECT_LOG.md              Main chronological progress log
 |-- BOM.md                      Bill of materials and sourcing notes
 |-- preliminary.drawio.png      Preliminary dimension sketch
+|-- programs/                   Small project calculators and utilities
 |-- docs/
 |   |-- decisions/              Design decision records
 |   |-- design/                 Mechanical design notes and calculations
