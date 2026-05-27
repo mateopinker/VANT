@@ -2,7 +2,7 @@
 
 # VANT
 
-VANT stands for **Vehiculo Aereo No Tripulado**.
+**Vehiculo Aereo No Tripulado**
 
 This repository is for logging the design, fabrication, assembly, testing, and iteration of an unmanned aerial vehicle project. It is intentionally mechanical-first: the main value here is traceable progress, design decisions, build evidence, and test records.
 
