@@ -15,6 +15,11 @@ Use this file as the main chronological record. Keep entries short, concrete, an
 - Added `programs/` for small project utilities.
 - Added a first Python wing calculator for area, aspect ratio, wing loading, cruise lift coefficient, and estimated stall speed.
 
+### Electrical Wiring Diagram Added
+
+- Added a first wiring diagram for the 6S LiPo, ESC, motor, flight controller, and 6S-to-5V DC-DC regulator.
+- Documented common ground, regulated 5 V flight-controller power, ESC signal wiring, and first power-up checks.
+
 ## Entry Template
 
 ```markdown
