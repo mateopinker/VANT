@@ -1,0 +1,25 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.backup
+~$*
+
+# CAD auto-backups and transient files
+*.FCStd1
+*.FCBak
+*.autosave
+
+# Local-only scratch space
+scratch/
+tmp/

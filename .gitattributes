@@ -1,0 +1,20 @@
+* text=auto
+
+# Keep common mechanical artifacts as binary unless a specific diff driver is added later.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.mp4 binary
+*.mov binary
+*.stl binary
+*.step binary
+*.stp binary
+*.iges binary
+*.igs binary
+*.f3d binary
+*.sldprt binary
+*.sldasm binary
+*.slddrw binary
+*.FCStd binary
