@@ -6,21 +6,14 @@ These scripts are for early calculations and project logging support. They are n
 
 ## Wing Calculator
 
-Run the first wing calculator interactively:
+Run the wing calculator:
 
 ```powershell
 python programs/wing_calculator.py
 ```
 
-Or pass values directly:
+Change the values in the `##VARIABLES##` sections to size a different aircraft,
+wing span, fuselage width, launch speed, or S7055 polar data.
 
-```powershell
-python programs/wing_calculator.py --mass-kg 2.5 --span-m 1.2 --chord-m 0.22 --cruise-speed-ms 15 --cl-max 1.2
-```
-
-The calculator accepts:
-
-- `--area-m2` for known wing area.
-- `--chord-m` for a rectangular wing.
-- `--root-chord-m` and `--tip-chord-m` for a simple tapered wing.
-
+The wing calculator uses an elliptical lift distribution across the span and
+prints a simple half-wing table.
