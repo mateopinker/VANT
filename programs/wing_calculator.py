@@ -53,8 +53,8 @@ print(f"Final takeoff velocity: {final_velocity:.2f} m/s")
 
 ##VARIABLES##
 wing_span = 1.6  # total tip-to-tip wingspan in meters
-fuselage_width = 0.9  # center fuselage width in meters, this part does not make lift
-sections_per_half_wing = 10  # number of sections from fuselage side to wing tip
+fuselage_width = 0.09  # center fuselage width in meters, this part does not make lift
+sections_per_half_wing = 10   # number of sections from fuselage side to wing tip
 lift_margin = 1.00  # multiply wing lift by this for safety margin
 kinematic_viscosity = 1.46e-5  # air kinematic viscosity in m^2/s
 
